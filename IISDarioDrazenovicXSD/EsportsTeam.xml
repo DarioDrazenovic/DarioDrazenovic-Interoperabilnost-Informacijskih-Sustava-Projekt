@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EsportsTeamArray>
+  <EsportsTeamList>
+    <EsportsTeam>
+      <Id>string</Id>
+      <Type>string</Type>
+      <Name>string</Name>
+      <Cost>2282530501020.2</Cost>
+    </EsportsTeam>
+    <EsportsTeam>
+      <Id>string</Id>
+      <Type>string</Type>
+      <Name>string</Name>
+      <Cost>2149185291823.2</Cost>
+    </EsportsTeam>
+  </EsportsTeamList>
+</EsportsTeamArray>
